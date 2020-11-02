@@ -1,0 +1,26 @@
+body{
+    background-color: lavender;
+    border: 1px solid black;
+    margin: 3px;
+}
+#header{
+    border: 1px solid black;
+    margin-bottom: 5px;
+}
+#nav1{
+    float: left;
+    width: 70%;
+    font-size: larger;
+}
+#nav2{
+    font-size: larger;
+}
+#container{
+    position: relative;
+    width: 133px;
+    height: 140px;
+    background: rgb(39, 147, 248);
+    margin: 5px;
+    box-sizing: border-box;
+    display: inline-block;
+}
